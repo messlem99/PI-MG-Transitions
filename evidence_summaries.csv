@@ -1,0 +1,310 @@
+summary_name,category,subgroup,count,denominator,percentage,evidence_question
+operating-regime distribution,AC-OPF warm-start optimization,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,DER parameter estimation under scarce data,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,EMT device transient,All included claims,2,66,3.03,Which operating regimes dominate the primary evidence?
+operating-regime distribution,IBR dynamic modeling,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,PV dynamic response,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,PV-HESS-PEM microgrid converter operation,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,active-distribution voltage regulation,All included claims,2,66,3.03,Which operating regimes dominate the primary evidence?
+operating-regime distribution,converter steady-state and transient simulation,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,demand-response operation,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,disturbances and renewable uncertainty,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,disturbed microgrid operation,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,dynamic trajectory prediction,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,economic control,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,economic dispatch,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,energy management under network constraints,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,energy-management RL training,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,event/fault classification,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,extreme-weather resilience,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,fast stability enhancement,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,fault detection,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,fault diagnosis and health monitoring,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,frequency dynamics across excitations,All included claims,2,66,3.03,Which operating regimes dominate the primary evidence?
+operating-regime distribution,grid-connected and three-microgrid interconnection transient stability,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,grid-connected operation,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,grid-connected to island mode,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,inverter trajectory tracking,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,islanded frequency transient,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,islanding and demand-response disruption,All included claims,2,66,3.03,Which operating regimes dominate the primary evidence?
+operating-regime distribution,large disturbance transient stability,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,large-disturbance transient stability,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,look-ahead transient stability under extreme events,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,maintenance under grid constraints,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,noisy physical-system identification,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,overload stability,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,physical and cyber anomaly detection,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,post-disturbance transient stability,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,prediction-free dispatch,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,real-time dynamic security,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,renewable-uncertainty stability control,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,resilient microgrid formation,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,restoration/resilience with EV mobility,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,secure energy management,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,stability-economy operation,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,state estimation across feeder sizes,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,steady and dynamic power-system analysis,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,system identification under uncertainty,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,topology reconfiguration after disturbance,All included claims,2,66,3.03,Which operating regimes dominate the primary evidence?
+operating-regime distribution,topology reconstruction and risk-aware reconfiguration,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,topology switching under operational variation,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,transient dynamics,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,transient prediction,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,transient reduced-order simulation,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,transient response,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,transient voltage instability after faults,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,variable-inertia microgrid voltage control,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,voltage control with stability constraint,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,voltage prediction with topology changes,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,voltage regulation,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+operating-regime distribution,voltage regulation with communication constraints,All included claims,2,66,3.03,Which operating regimes dominate the primary evidence?
+operating-regime distribution,voltage stability,All included claims,1,66,1.52,Which operating regimes dominate the primary evidence?
+validation-fidelity distribution,F0,All included claims,24,66,36.36,"How much evidence reaches dynamic, EMT, or experimental fidelity?"
+validation-fidelity distribution,F1,All included claims,35,66,53.03,"How much evidence reaches dynamic, EMT, or experimental fidelity?"
+validation-fidelity distribution,F2,All included claims,4,66,6.06,"How much evidence reaches dynamic, EMT, or experimental fidelity?"
+validation-fidelity distribution,F3,All included claims,3,66,4.55,"How much evidence reaches dynamic, EMT, or experimental fidelity?"
+auditability-tier distribution,A1,All included claims,13,66,19.70,How auditable are the operational claims?
+auditability-tier distribution,A2,All included claims,27,66,40.91,How auditable are the operational claims?
+auditability-tier distribution,A3,All included claims,26,66,39.39,How auditable are the operational claims?
+method-family distribution,Bayesian PINN,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,DRL with PINN,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,Hamiltonian neural network,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,Koopman learning,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,LSTM control/optimization,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,PINN,All included claims,4,66,6.06,Which learning/control method families are represented?
+method-family distribution,PINN control,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,PINN hybrid optimization,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,PINN recurrent model,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,RL with PINN surrogate,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,adaptive data-driven control,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,certificate-based neural control,All included claims,2,66,3.03,Which learning/control method families are represented?
+method-family distribution,data-driven hybrid dynamic modeling,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,data-driven online optimization,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,data-driven predictive control,All included claims,3,66,4.55,Which learning/control method families are represented?
+method-family distribution,data-driven topology reconstruction,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,deep Koopman MPC,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,deep evolutionary learning,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,deep neural network MPC,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,digital twin and deep learning,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,distributed deep reinforcement learning,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,distributionally robust neural control,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,explainable graph neural network,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,explicit neural network control,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,graph neural network,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,gray-box neural modeling,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,hard-constrained PINN,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,hybrid data-driven optimization,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,machine learning,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,model-data co-driven optimization,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,modified PINN,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,multiagent reinforcement learning,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,neural Lyapunov,All included claims,2,66,3.03,Which learning/control method families are represented?
+method-family distribution,neural ODE,All included claims,2,66,3.03,Which learning/control method families are represented?
+method-family distribution,neural switching control,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,physical-informed safe reinforcement learning,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,physics-informed ANN,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,physics-informed KAN,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,physics-informed convolutional neural network,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,physics-informed graph neural network,All included claims,2,66,3.03,Which learning/control method families are represented?
+method-family distribution,physics-informed multi-agent deep RL,All included claims,2,66,3.03,Which learning/control method families are represented?
+method-family distribution,physics-informed neural DAE,All included claims,2,66,3.03,Which learning/control method families are represented?
+method-family distribution,physics-informed reinforcement learning,All included claims,2,66,3.03,Which learning/control method families are represented?
+method-family distribution,probabilistic graph neural network,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,reinforcement pinning control,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,safe policy learning,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,safe reinforcement learning,All included claims,6,66,9.09,Which learning/control method families are represented?
+method-family distribution,stability-constrained reinforcement learning,All included claims,1,66,1.52,Which learning/control method families are represented?
+method-family distribution,structure-preserving model reduction,All included claims,1,66,1.52,Which learning/control method families are represented?
+evidence-class distribution,Plausibility evidence,All included claims,66,66,100.00,Does evidence support plausibility or admissibility?
+operating regime by validation fidelity tier,AC-OPF warm-start optimization,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,DER parameter estimation under scarce data,F3,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,EMT device transient,F2,2,66,3.03,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,IBR dynamic modeling,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,PV dynamic response,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,PV-HESS-PEM microgrid converter operation,F2,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,active-distribution voltage regulation,F0,2,66,3.03,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,converter steady-state and transient simulation,F2,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,demand-response operation,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,disturbances and renewable uncertainty,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,disturbed microgrid operation,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,dynamic trajectory prediction,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,economic control,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,economic dispatch,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,energy management under network constraints,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,energy-management RL training,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,event/fault classification,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,extreme-weather resilience,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,fast stability enhancement,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,fault detection,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,fault diagnosis and health monitoring,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,frequency dynamics across excitations,F1,2,66,3.03,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,grid-connected and three-microgrid interconnection transient stability,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,grid-connected operation,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,grid-connected to island mode,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,inverter trajectory tracking,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,islanded frequency transient,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,islanding and demand-response disruption,F0,2,66,3.03,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,large disturbance transient stability,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,large-disturbance transient stability,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,look-ahead transient stability under extreme events,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,maintenance under grid constraints,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,noisy physical-system identification,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,overload stability,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,physical and cyber anomaly detection,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,post-disturbance transient stability,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,prediction-free dispatch,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,real-time dynamic security,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,renewable-uncertainty stability control,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,resilient microgrid formation,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,restoration/resilience with EV mobility,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,secure energy management,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,stability-economy operation,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,state estimation across feeder sizes,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,steady and dynamic power-system analysis,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,system identification under uncertainty,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,topology reconfiguration after disturbance,F1,2,66,3.03,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,topology reconstruction and risk-aware reconfiguration,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,topology switching under operational variation,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,transient dynamics,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,transient prediction,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,transient reduced-order simulation,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,transient response,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,transient voltage instability after faults,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,variable-inertia microgrid voltage control,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,voltage control with stability constraint,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,voltage prediction with topology changes,F0,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,voltage regulation,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,voltage regulation with communication constraints,F3,2,66,3.03,Which regimes have stronger validation fidelity?
+operating regime by validation fidelity tier,voltage stability,F1,1,66,1.52,Which regimes have stronger validation fidelity?
+method family by operating regime,Bayesian PINN,system identification under uncertainty,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,DRL with PINN,resilient microgrid formation,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,Hamiltonian neural network,noisy physical-system identification,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,Koopman learning,transient prediction,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,LSTM control/optimization,fast stability enhancement,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,PINN,AC-OPF warm-start optimization,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,PINN,large disturbance transient stability,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,PINN,steady and dynamic power-system analysis,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,PINN,voltage stability,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,PINN control,overload stability,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,PINN hybrid optimization,grid-connected to island mode,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,PINN recurrent model,converter steady-state and transient simulation,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,RL with PINN surrogate,energy-management RL training,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,adaptive data-driven control,variable-inertia microgrid voltage control,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,certificate-based neural control,disturbances and renewable uncertainty,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,certificate-based neural control,disturbed microgrid operation,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,data-driven hybrid dynamic modeling,PV dynamic response,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,data-driven online optimization,prediction-free dispatch,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,data-driven predictive control,islanded frequency transient,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,data-driven predictive control,voltage regulation with communication constraints,2,66,3.03,Which method families are used in which regimes?
+method family by operating regime,data-driven topology reconstruction,topology reconstruction and risk-aware reconfiguration,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,deep Koopman MPC,post-disturbance transient stability,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,deep evolutionary learning,look-ahead transient stability under extreme events,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,deep neural network MPC,PV-HESS-PEM microgrid converter operation,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,digital twin and deep learning,fault diagnosis and health monitoring,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,distributed deep reinforcement learning,restoration/resilience with EV mobility,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,distributionally robust neural control,renewable-uncertainty stability control,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,explainable graph neural network,fault detection,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,explicit neural network control,voltage regulation,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,graph neural network,transient dynamics,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,gray-box neural modeling,IBR dynamic modeling,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,hard-constrained PINN,transient response,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,hybrid data-driven optimization,demand-response operation,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,machine learning,grid-connected operation,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,model-data co-driven optimization,stability-economy operation,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,modified PINN,DER parameter estimation under scarce data,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,multiagent reinforcement learning,extreme-weather resilience,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,neural Lyapunov,grid-connected and three-microgrid interconnection transient stability,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,neural Lyapunov,large-disturbance transient stability,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,neural ODE,frequency dynamics across excitations,2,66,3.03,Which method families are used in which regimes?
+method family by operating regime,neural switching control,topology switching under operational variation,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,physical-informed safe reinforcement learning,secure energy management,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,physics-informed ANN,physical and cyber anomaly detection,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,physics-informed KAN,dynamic trajectory prediction,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,physics-informed convolutional neural network,economic dispatch,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,physics-informed graph neural network,event/fault classification,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,physics-informed graph neural network,state estimation across feeder sizes,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,physics-informed multi-agent deep RL,active-distribution voltage regulation,2,66,3.03,Which method families are used in which regimes?
+method family by operating regime,physics-informed neural DAE,EMT device transient,2,66,3.03,Which method families are used in which regimes?
+method family by operating regime,physics-informed reinforcement learning,inverter trajectory tracking,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,physics-informed reinforcement learning,transient voltage instability after faults,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,probabilistic graph neural network,voltage prediction with topology changes,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,reinforcement pinning control,economic control,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,safe policy learning,real-time dynamic security,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,safe reinforcement learning,energy management under network constraints,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,safe reinforcement learning,islanding and demand-response disruption,2,66,3.03,Which method families are used in which regimes?
+method family by operating regime,safe reinforcement learning,maintenance under grid constraints,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,safe reinforcement learning,topology reconfiguration after disturbance,2,66,3.03,Which method families are used in which regimes?
+method family by operating regime,stability-constrained reinforcement learning,voltage control with stability constraint,1,66,1.52,Which method families are used in which regimes?
+method family by operating regime,structure-preserving model reduction,transient reduced-order simulation,1,66,1.52,Which method families are used in which regimes?
+system type by operating regime,AC microgrid,physical and cyber anomaly detection,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,DC microgrid,stability-economy operation,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,IEEE 9-bus power system,transient voltage instability after faults,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,PV-HESS-PEM microgrid converter,PV-HESS-PEM microgrid converter operation,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,VSC-interfaced microgrid,large disturbance transient stability,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,active distribution grid,event/fault classification,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,active distribution network,active-distribution voltage regulation,2,66,3.03,Which systems support each operating regime?
+system type by operating regime,active distribution network,voltage control with stability constraint,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,active distribution system,voltage prediction with topology changes,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,commercial building microgrid,islanding and demand-response disruption,2,66,3.03,Which systems support each operating regime?
+system type by operating regime,community integrated energy system,demand-response operation,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,converter-dominated power components,EMT device transient,2,66,3.03,Which systems support each operating regime?
+system type by operating regime,dc-dc converter in microgrid context,converter steady-state and transient simulation,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,distribution grid,maintenance under grid constraints,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,distribution network with microgrids,energy management under network constraints,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,distribution system with inverter-based resources,IBR dynamic modeling,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,distribution system with microgrids,resilient microgrid formation,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,grid-connected microgrid,grid-connected operation,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,grid-forming converter,overload stability,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,grid-forming converter microgrid,variable-inertia microgrid voltage control,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,high-renewable islanded microgrid,renewable-uncertainty stability control,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,interconnected microgrids,grid-connected and three-microgrid interconnection transient stability,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,inverter-based microgrid,fast stability enhancement,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,inverter-dominated power system,system identification under uncertainty,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,islanded DC microgrid,voltage regulation with communication constraints,2,66,3.03,Which systems support each operating regime?
+system type by operating regime,islanded microgrid,islanded frequency transient,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,islanded microgrid,topology reconfiguration after disturbance,2,66,3.03,Which systems support each operating regime?
+system type by operating regime,islanded microgrid with tie switches,topology switching under operational variation,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,large-scale power grid,look-ahead transient stability under extreme events,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrid,disturbed microgrid operation,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrid,economic control,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrid,economic dispatch,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrid,fault diagnosis and health monitoring,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrid,frequency dynamics across excitations,2,66,3.03,Which systems support each operating regime?
+system type by operating regime,microgrid,grid-connected to island mode,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrid,prediction-free dispatch,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrid,transient response,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrid,voltage regulation,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrid,voltage stability,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrid DERs,DER parameter estimation under scarce data,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrid inverter,inverter trajectory tracking,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrids,extreme-weather resilience,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,microgrids,transient prediction,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,multi-energy microgrid,secure energy management,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,multiple microgrids,restoration/resilience with EV mobility,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,multiple photovoltaic power stations,PV dynamic response,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,networked microgrids,large-disturbance transient stability,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,networked microgrids,transient dynamics,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,physical dynamical system,noisy physical-system identification,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,power distribution feeders,state estimation across feeder sizes,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,power distribution system,topology reconstruction and risk-aware reconfiguration,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,power grid,fault detection,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,power grid,post-disturbance transient stability,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,power network,transient reduced-order simulation,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,power system,AC-OPF warm-start optimization,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,power system,dynamic trajectory prediction,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,power system,real-time dynamic security,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,power system,steady and dynamic power-system analysis,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,smart grid,energy-management RL training,1,66,1.52,Which systems support each operating regime?
+system type by operating regime,uncertain networked microgrids,disturbances and renewable uncertainty,1,66,1.52,Which systems support each operating regime?
+enforcement strength by violation reporting,audited only,NR,24,66,36.36,Does enforcement strength correspond to reported violations?
+enforcement strength by violation reporting,audited only,Yes,1,66,1.52,Does enforcement strength correspond to reported violations?
+enforcement strength by violation reporting,certificate-based,Yes,4,66,6.06,Does enforcement strength correspond to reported violations?
+enforcement strength by violation reporting,hard runtime enforcement,NR,3,66,4.55,Does enforcement strength correspond to reported violations?
+enforcement strength by violation reporting,hard runtime enforcement,Yes,7,66,10.61,Does enforcement strength correspond to reported violations?
+enforcement strength by violation reporting,hybrid,Yes,14,66,21.21,Does enforcement strength correspond to reported violations?
+enforcement strength by violation reporting,soft penalty,NR,10,66,15.15,Does enforcement strength correspond to reported violations?
+enforcement strength by violation reporting,soft penalty,Yes,3,66,4.55,Does enforcement strength correspond to reported violations?
+rare operating-regime evidence count,Regimes with one claim,All included claims,54,66,81.82,Which regimes are too sparse for strong synthesis?
+admissibility vs plausibility evidence,Admissibility evidence,All included claims,0,66,0.00,How much primary evidence reaches operational admissibility?
+admissibility vs plausibility evidence,Plausibility evidence,All included claims,66,66,100.00,How much primary evidence reaches operational admissibility?
+admissibility vs plausibility evidence,Contextual evidence,All included claims,0,66,0.00,How much primary evidence reaches operational admissibility?

@@ -1,0 +1,138 @@
+entry_id,claim_id,citation_key,operating_regime,feasibility_condition,failure_mode,operational_limit_involved,evidence_reported,notes
+FM001,C001,10025395,voltage regulation,safe voltage set and stability certificate,voltage excursion,voltage limit,Yes,NR
+FM002,C002,10040615,energy management under network constraints,constrained policy optimization,voltage excursion,voltage limit,Yes,NR
+FM003,C003,10128154,inverter trajectory tracking,physics-informed trajectory tracking objective,voltage excursion,voltage limit,NR,NR
+FM004,C004,10208158,large-disturbance transient stability,Lyapunov stability certificate,voltage excursion,voltage limit,Yes,NR
+FM005,C004,10208158,large-disturbance transient stability,Lyapunov stability certificate,synchronization mismatch,coupling/synchronization limit,Yes,NR
+FM006,C004,10208158,large-disturbance transient stability,Lyapunov stability certificate,topology infeasibility or switching failure,topology constraint,Yes,NR
+FM007,C005,10233047,disturbances and renewable uncertainty,robust CLBF safety and stability certificate,voltage excursion,voltage limit,Yes,NR
+FM008,C005,10233047,disturbances and renewable uncertainty,robust CLBF safety and stability certificate,frequency excursion,frequency limit,Yes,NR
+FM009,C005,10233047,disturbances and renewable uncertainty,robust CLBF safety and stability certificate,synchronization mismatch,coupling/synchronization limit,Yes,NR
+FM010,C006,10238825,voltage prediction with topology changes,probabilistic voltage prediction with topology robustness,voltage excursion,voltage limit,NR,NR
+FM011,C006,10238825,voltage prediction with topology changes,probabilistic voltage prediction with topology robustness,topology infeasibility or switching failure,topology constraint,NR,NR
+FM012,C007,10253396,disturbed microgrid operation,CLBF certificate,voltage excursion,voltage limit,Yes,NR
+FM013,C007,10253396,disturbed microgrid operation,CLBF certificate,frequency excursion,frequency limit,Yes,NR
+FM014,C008,10304833,large disturbance transient stability,physics residual regularization for TSA,voltage excursion,voltage limit,NR,NR
+FM015,C008,10304833,large disturbance transient stability,physics residual regularization for TSA,synchronization mismatch,coupling/synchronization limit,NR,NR
+FM016,C009,10489968,transient dynamics,physics-aware graph prediction,voltage excursion,voltage limit,NR,NR
+FM017,C009,10489968,transient dynamics,physics-aware graph prediction,frequency excursion,frequency limit,NR,NR
+FM018,C009,10489968,transient dynamics,physics-aware graph prediction,synchronization mismatch,coupling/synchronization limit,NR,NR
+FM019,C010,10506510,variable-inertia microgrid voltage control,adaptive voltage control objective,voltage excursion,voltage limit,NR,NR
+FM020,C011,10507020,IBR dynamic modeling,partial physical model plus learned residual,voltage excursion,voltage limit,NR,NR
+FM021,C012,10527356,transient prediction,structure-aware surrogate model,voltage excursion,voltage limit,NR,3.35 s for 100 simulations after truncation versus 6.13 s before truncation
+FM022,C012,10527356,transient prediction,structure-aware surrogate model,frequency excursion,frequency limit,NR,3.35 s for 100 simulations after truncation versus 6.13 s before truncation
+FM023,C013,10540030,AC-OPF warm-start optimization,physics-informed warm-start feasibility,voltage excursion,voltage limit,Yes,reported to reduce computational time by almost half
+FM024,C013,10540030,AC-OPF warm-start optimization,physics-informed warm-start feasibility,current saturation,current/device limit,Yes,reported to reduce computational time by almost half
+FM025,C014,10584332,topology switching under operational variation,state-dependent switching law with stability margin,voltage excursion,voltage limit,Yes,NR
+FM026,C014,10584332,topology switching under operational variation,state-dependent switching law with stability margin,frequency excursion,frequency limit,Yes,NR
+FM027,C014,10584332,topology switching under operational variation,state-dependent switching law with stability margin,synchronization mismatch,coupling/synchronization limit,Yes,NR
+FM028,C015,10665992,islanded frequency transient,MPC constraints with reachability analysis,frequency excursion,frequency limit,Yes,NR
+FM029,C015,10665992,islanded frequency transient,MPC constraints with reachability analysis,synchronization mismatch,coupling/synchronization limit,Yes,NR
+FM030,C015,10665992,islanded frequency transient,MPC constraints with reachability analysis,resource outage or derating,resource availability,Yes,NR
+FM031,C016,10753627,transient reduced-order simulation,structure-preserving simulation fidelity,voltage excursion,voltage limit,NR,RMSE examples 0.038 and 0.0019 in ODT note; runtime benefits reported
+FM032,C016,10753627,transient reduced-order simulation,structure-preserving simulation fidelity,frequency excursion,frequency limit,NR,RMSE examples 0.038 and 0.0019 in ODT note; runtime benefits reported
+FM033,C016,10753627,transient reduced-order simulation,structure-preserving simulation fidelity,synchronization mismatch,coupling/synchronization limit,NR,RMSE examples 0.038 and 0.0019 in ODT note; runtime benefits reported
+FM034,C017,10833613,voltage stability,physics residual regularization,voltage excursion,voltage limit,NR,NR
+FM035,C018,10843279,dynamic trajectory prediction,physics residual regularization,voltage excursion,voltage limit,NR,NR
+FM036,C018,10843279,dynamic trajectory prediction,physics residual regularization,frequency excursion,frequency limit,NR,NR
+FM037,C018,10843279,dynamic trajectory prediction,physics residual regularization,synchronization mismatch,coupling/synchronization limit,NR,NR
+FM038,C019,10852190,renewable-uncertainty stability control,distributionally robust chance-constrained stability,voltage excursion,voltage limit,Yes,NR
+FM039,C019,10852190,renewable-uncertainty stability control,distributionally robust chance-constrained stability,frequency excursion,frequency limit,Yes,NR
+FM040,C019,10852190,renewable-uncertainty stability control,distributionally robust chance-constrained stability,synchronization mismatch,coupling/synchronization limit,Yes,NR
+FM041,C020,10887332,EMT device transient,physics-informed EMT trajectory prediction,voltage excursion,voltage limit,NR,Mean trajectory errors reported for induction-machine free-acceleration and torque-change evaluations; exact values include 2.9655% and 0.3606% in ODT note
+FM042,C020,10887332,EMT device transient,physics-informed EMT trajectory prediction,current saturation,current/device limit,NR,Mean trajectory errors reported for induction-machine free-acceleration and torque-change evaluations; exact values include 2.9655% and 0.3606% in ODT note
+FM043,C021,10887332,EMT device transient,physics-informed EMT trajectory prediction,voltage excursion,voltage limit,NR,Fault and parameter-shift cases used for EMT neural DAE validation; exact inverter-specific table values NR
+FM044,C021,10887332,EMT device transient,physics-informed EMT trajectory prediction,current saturation,current/device limit,NR,Fault and parameter-shift cases used for EMT neural DAE validation; exact inverter-specific table values NR
+FM045,C022,10906317,real-time dynamic security,safe policy for dynamic security constrained OPF,voltage excursion,voltage limit,Yes,NR
+FM046,C022,10906317,real-time dynamic security,safe policy for dynamic security constrained OPF,frequency excursion,frequency limit,Yes,NR
+FM047,C022,10906317,real-time dynamic security,safe policy for dynamic security constrained OPF,current saturation,current/device limit,Yes,NR
+FM048,C023,11003897,topology reconfiguration after disturbance,chance-constrained emergency control,voltage excursion,voltage limit,Yes,ODT abstract reports efficient emergency control under hard constraints; exact violation magnitude NR
+FM049,C023,11003897,topology reconfiguration after disturbance,chance-constrained emergency control,frequency excursion,frequency limit,Yes,ODT abstract reports efficient emergency control under hard constraints; exact violation magnitude NR
+FM050,C023,11003897,topology reconfiguration after disturbance,chance-constrained emergency control,synchronization mismatch,coupling/synchronization limit,Yes,ODT abstract reports efficient emergency control under hard constraints; exact violation magnitude NR
+FM051,C024,11003897,topology reconfiguration after disturbance,chance-constrained emergency control,voltage excursion,voltage limit,Yes,ODT abstract reports topology reconfiguration in a real islanded microgrid case; exact reconfiguration count NR
+FM052,C024,11003897,topology reconfiguration after disturbance,chance-constrained emergency control,frequency excursion,frequency limit,Yes,ODT abstract reports topology reconfiguration in a real islanded microgrid case; exact reconfiguration count NR
+FM053,C024,11003897,topology reconfiguration after disturbance,chance-constrained emergency control,synchronization mismatch,coupling/synchronization limit,Yes,ODT abstract reports topology reconfiguration in a real islanded microgrid case; exact reconfiguration count NR
+FM054,C025,11045087,DER parameter estimation under scarce data,physics-informed parameter estimation,voltage excursion,voltage limit,NR,training time reduced by up to 82.87% versus traditional PINN in ODT note
+FM055,C025,11045087,DER parameter estimation under scarce data,physics-informed parameter estimation,frequency excursion,frequency limit,NR,training time reduced by up to 82.87% versus traditional PINN in ODT note
+FM056,C026,11088107,fault detection,fault classification and explanation,voltage excursion,voltage limit,NR,explanation generation time reported in ODT note; exact value NR
+FM057,C026,11088107,fault detection,fault classification and explanation,current saturation,current/device limit,NR,explanation generation time reported in ODT note; exact value NR
+FM058,C026,11088107,fault detection,fault classification and explanation,topology infeasibility or switching failure,topology constraint,NR,explanation generation time reported in ODT note; exact value NR
+FM059,C027,11165312,fault diagnosis and health monitoring,monitoring and fault diagnosis,voltage excursion,voltage limit,NR,fast sampling/processing discussed; exact latency NR
+FM060,C027,11165312,fault diagnosis and health monitoring,monitoring and fault diagnosis,frequency excursion,frequency limit,NR,fast sampling/processing discussed; exact latency NR
+FM061,C027,11165312,fault diagnosis and health monitoring,monitoring and fault diagnosis,current saturation,current/device limit,NR,fast sampling/processing discussed; exact latency NR
+FM062,C028,9282004,steady and dynamic power-system analysis,physics residual regularization,voltage excursion,voltage limit,NR,NR
+FM063,C029,9371751,islanding and demand-response disruption,CVaR/chance-constrained resilient scheduling,resource outage or derating,resource availability,Yes,ODT note reports average reward 73.58 for proposed method versus 66.04 for DQN and islanding duration of 2 hours
+FM064,C030,9371751,islanding and demand-response disruption,CVaR/chance-constrained resilient scheduling,resource outage or derating,resource availability,Yes,ODT note reports CVaR confidence level 95% and objective values 77.62 scenario-based versus 78.53 CVaR-based
+FM065,C031,9916278,transient voltage instability after faults,physics-informed transient voltage control,voltage excursion,voltage limit,Yes,NR
+FM066,C031,9916278,transient voltage instability after faults,physics-informed transient voltage control,synchronization mismatch,coupling/synchronization limit,Yes,NR
+FM067,C032,9939922,event/fault classification,physics-informed classification,voltage excursion,voltage limit,NR,NR
+FM068,C032,9939922,event/fault classification,physics-informed classification,frequency excursion,frequency limit,NR,NR
+FM069,C032,9939922,event/fault classification,physics-informed classification,current saturation,current/device limit,NR,NR
+FM070,C033,Wu2026Multiagent,extreme-weather resilience,reward-shaped resilience optimization,resource outage or derating,resource availability,NR,NR
+FM071,C034,aryal2025active,frequency dynamics across excitations,learned dynamic surrogate,frequency excursion,frequency limit,NR,ODT note reports GoF generally above 85% and MSE within 1e-6 p.u. except Delta omega dot around 80% GoF
+FM072,C034,aryal2025active,frequency dynamics across excitations,learned dynamic surrogate,synchronization mismatch,coupling/synchronization limit,NR,ODT note reports GoF generally above 85% and MSE within 1e-6 p.u. except Delta omega dot around 80% GoF
+FM073,C034,aryal2025active,frequency dynamics across excitations,learned dynamic surrogate,topology infeasibility or switching failure,topology constraint,NR,ODT note reports GoF generally above 85% and MSE within 1e-6 p.u. except Delta omega dot around 80% GoF
+FM074,C035,aryal2025active,frequency dynamics across excitations,learned dynamic surrogate,frequency excursion,frequency limit,NR,ODT note reports topology changes via transfer learning and microsecond-range inference; exact topology count NR
+FM075,C035,aryal2025active,frequency dynamics across excitations,learned dynamic surrogate,synchronization mismatch,coupling/synchronization limit,NR,ODT note reports topology changes via transfer learning and microsecond-range inference; exact topology count NR
+FM076,C035,aryal2025active,frequency dynamics across excitations,learned dynamic surrogate,topology infeasibility or switching failure,topology constraint,NR,ODT note reports topology changes via transfer learning and microsecond-range inference; exact topology count NR
+FM077,C038,chen2025curriculum,look-ahead transient stability under extreme events,stability-constrained dispatch policy,voltage excursion,voltage limit,Yes,0.39 s per step versus 13.2 min MPC; unsafe cases 0/500
+FM078,C038,chen2025curriculum,look-ahead transient stability under extreme events,stability-constrained dispatch policy,frequency excursion,frequency limit,Yes,0.39 s per step versus 13.2 min MPC; unsafe cases 0/500
+FM079,C038,chen2025curriculum,look-ahead transient stability under extreme events,stability-constrained dispatch policy,current saturation,current/device limit,Yes,0.39 s per step versus 13.2 min MPC; unsafe cases 0/500
+FM080,C039,chen2025modified,transient response,hard physical consistency constraint,voltage excursion,voltage limit,NR,NR
+FM081,C039,chen2025modified,transient response,hard physical consistency constraint,frequency excursion,frequency limit,NR,NR
+FM082,C040,coulombe2025simulation,converter steady-state and transient simulation,physics-constrained converter surrogate,voltage excursion,voltage limit,NR,RMSE reductions 54% steady-state and 67% transient versus BiLSTM
+FM083,C040,coulombe2025simulation,converter steady-state and transient simulation,physics-constrained converter surrogate,current saturation,current/device limit,NR,RMSE reductions 54% steady-state and 67% transient versus BiLSTM
+FM084,C041,feng2023stability,voltage control with stability constraint,stability-constrained control,voltage excursion,voltage limit,Yes,NR
+FM085,C043,gram2025safe,maintenance under grid constraints,constrained policy optimization,voltage excursion,voltage limit,Yes,NR
+FM086,C043,gram2025safe,maintenance under grid constraints,constrained policy optimization,current saturation,current/device limit,Yes,NR
+FM087,C043,gram2025safe,maintenance under grid constraints,constrained policy optimization,resource outage or derating,resource availability,Yes,NR
+FM088,C044,huang2020neural_lyapunov_interconnected,grid-connected and three-microgrid interconnection transient stability,Lyapunov security-region certificate,voltage excursion,voltage limit,Yes,NR
+FM089,C044,huang2020neural_lyapunov_interconnected,grid-connected and three-microgrid interconnection transient stability,Lyapunov security-region certificate,synchronization mismatch,coupling/synchronization limit,Yes,NR
+FM090,C044,huang2020neural_lyapunov_interconnected,grid-connected and three-microgrid interconnection transient stability,Lyapunov security-region certificate,topology infeasibility or switching failure,topology constraint,Yes,NR
+FM091,C045,huang2024data,voltage regulation with communication constraints,predictive-control constraints under delays/losses,voltage excursion,voltage limit,Yes,ODT abstract reports bus-voltage restoration using a data-driven distributed predictive controller; exact voltage error NR
+FM092,C045,huang2024data,voltage regulation with communication constraints,predictive-control constraints under delays/losses,current saturation,current/device limit,Yes,ODT abstract reports bus-voltage restoration using a data-driven distributed predictive controller; exact voltage error NR
+FM093,C045,huang2024data,voltage regulation with communication constraints,predictive-control constraints under delays/losses,communication delay or loss,communication constraint,Yes,ODT abstract reports bus-voltage restoration using a data-driven distributed predictive controller; exact voltage error NR
+FM094,C046,huang2024data,voltage regulation with communication constraints,predictive-control constraints under delays/losses,voltage excursion,voltage limit,Yes,ODT abstract reports accurate current sharing while compensating network delays and packet losses; exact current-sharing error NR
+FM095,C046,huang2024data,voltage regulation with communication constraints,predictive-control constraints under delays/losses,current saturation,current/device limit,Yes,ODT abstract reports accurate current sharing while compensating network delays and packet losses; exact current-sharing error NR
+FM096,C046,huang2024data,voltage regulation with communication constraints,predictive-control constraints under delays/losses,communication delay or loss,communication constraint,Yes,ODT abstract reports accurate current sharing while compensating network delays and packet losses; exact current-sharing error NR
+FM097,C047,huang2024prediction,prediction-free dispatch,safety-cost multiobjective dispatch,voltage excursion,voltage limit,Yes,1.9 versus 37.6 min/day; voltage satisfaction 87.33% to 100%
+FM098,C048,komala2025iot,grid-connected to island mode,islanding detection and deviation reduction,voltage excursion,voltage limit,NR,NR
+FM099,C048,komala2025iot,grid-connected to island mode,islanding detection and deviation reduction,frequency excursion,frequency limit,NR,NR
+FM100,C048,komala2025iot,grid-connected to island mode,islanding detection and deviation reduction,synchronization mismatch,coupling/synchronization limit,NR,NR
+FM101,C049,kumar2025physics,overload stability,physics-informed stability control,voltage excursion,voltage limit,Yes,NR
+FM102,C049,kumar2025physics,overload stability,physics-informed stability control,frequency excursion,frequency limit,Yes,NR
+FM103,C049,kumar2025physics,overload stability,physics-informed stability control,current saturation,current/device limit,Yes,NR
+FM104,C050,long2020data,PV dynamic response,hybrid equivalent modeling,voltage excursion,voltage limit,NR,NR
+FM105,C052,ngo2024physics,state estimation across feeder sizes,physics-informed state estimation,voltage excursion,voltage limit,NR,MSE around 0.0032 to 0.0039; average RMSE around 0.0139
+FM106,C052,ngo2024physics,state estimation across feeder sizes,physics-informed state estimation,current saturation,current/device limit,NR,MSE around 0.0032 to 0.0039; average RMSE around 0.0139
+FM107,C052,ngo2024physics,state estimation across feeder sizes,physics-informed state estimation,topology infeasibility or switching failure,topology constraint,NR,MSE around 0.0032 to 0.0039; average RMSE around 0.0139
+FM108,C053,pang2024fast,fast stability enhancement,data-driven stability enhancement,voltage excursion,voltage limit,NR,NR
+FM109,C053,pang2024fast,fast stability enhancement,data-driven stability enhancement,frequency excursion,frequency limit,NR,NR
+FM110,C053,pang2024fast,fast stability enhancement,data-driven stability enhancement,synchronization mismatch,coupling/synchronization limit,NR,NR
+FM111,C054,ping2021deep,post-disturbance transient stability,MPC constrained control in lifted coordinates,frequency excursion,frequency limit,NR,NR
+FM112,C054,ping2021deep,post-disturbance transient stability,MPC constrained control in lifted coordinates,synchronization mismatch,coupling/synchronization limit,NR,NR
+FM113,C054,ping2021deep,post-disturbance transient stability,MPC constrained control in lifted coordinates,topology infeasibility or switching failure,topology constraint,NR,NR
+FM114,C056,singhal2026physics,physical and cyber anomaly detection,physics-informed anomaly identification,voltage excursion,voltage limit,NR,NR
+FM115,C056,singhal2026physics,physical and cyber anomaly detection,physics-informed anomaly identification,frequency excursion,frequency limit,NR,NR
+FM116,C056,singhal2026physics,physical and cyber anomaly detection,physics-informed anomaly identification,current saturation,current/device limit,NR,NR
+FM117,C057,stock2024bayesian,system identification under uncertainty,Bayesian physics-informed identification,voltage excursion,voltage limit,NR,NR
+FM118,C057,stock2024bayesian,system identification under uncertainty,Bayesian physics-informed identification,frequency excursion,frequency limit,NR,NR
+FM119,C058,sun2025integrated,topology reconstruction and risk-aware reconfiguration,risk-aware reconfiguration constraints,voltage excursion,voltage limit,Yes,NR
+FM120,C058,sun2025integrated,topology reconstruction and risk-aware reconfiguration,risk-aware reconfiguration constraints,current saturation,current/device limit,Yes,NR
+FM121,C058,sun2025integrated,topology reconstruction and risk-aware reconfiguration,risk-aware reconfiguration constraints,resource outage or derating,resource availability,Yes,NR
+FM122,C060,wu2025resilience,restoration/resilience with EV mobility,resilience/fairness reward,communication delay or loss,communication constraint,NR,NR
+FM123,C060,wu2025resilience,restoration/resilience with EV mobility,resilience/fairness reward,resource outage or derating,resource availability,NR,NR
+FM124,C060,wu2025resilience,restoration/resilience with EV mobility,resilience/fairness reward,topology infeasibility or switching failure,topology constraint,NR,NR
+FM125,C061,xu2024resilient,resilient microgrid formation,physics-informed resilient formation policy,voltage excursion,voltage limit,Yes,NR
+FM126,C061,xu2024resilient,resilient microgrid formation,physics-informed resilient formation policy,current saturation,current/device limit,Yes,NR
+FM127,C061,xu2024resilient,resilient microgrid formation,physics-informed resilient formation policy,synchronization mismatch,coupling/synchronization limit,Yes,NR
+FM128,C062,xun2025single,PV-HESS-PEM microgrid converter operation,MPC device constraints,voltage excursion,voltage limit,NR,NR
+FM129,C062,xun2025single,PV-HESS-PEM microgrid converter operation,MPC device constraints,current saturation,current/device limit,NR,NR
+FM130,C063,zhang2024physics,active-distribution voltage regulation,physics-informed multiagent control,voltage excursion,voltage limit,Yes,"ODT note reports higher average reward, lower voltage deviation, lower curtailment, and shorter testing time versus MADDPG and DDPG"
+FM131,C063,zhang2024physics,active-distribution voltage regulation,physics-informed multiagent control,topology infeasibility or switching failure,topology constraint,Yes,"ODT note reports higher average reward, lower voltage deviation, lower curtailment, and shorter testing time versus MADDPG and DDPG"
+FM132,C064,zhang2024physics,active-distribution voltage regulation,physics-informed multiagent control,voltage excursion,voltage limit,Yes,ODT note reports Table 3 communication-failure tests using episodic reward and survival steps
+FM133,C064,zhang2024physics,active-distribution voltage regulation,physics-informed multiagent control,communication delay or loss,communication constraint,Yes,ODT note reports Table 3 communication-failure tests using episodic reward and survival steps
+FM134,C064,zhang2024physics,active-distribution voltage regulation,physics-informed multiagent control,topology infeasibility or switching failure,topology constraint,Yes,ODT note reports Table 3 communication-failure tests using episodic reward and survival steps
+FM135,C065,zheng2024distributed,economic control,distributed economic control,communication delay or loss,communication constraint,NR,NR
+FM136,C066,zhu2025operation,stability-economy operation,stability-feasible economic optimization,voltage excursion,voltage limit,Yes,solution within seconds versus about one minute; surrogate DE violates stability at load factor 0.95
+FM137,C066,zhu2025operation,stability-economy operation,stability-feasible economic optimization,current saturation,current/device limit,Yes,solution within seconds versus about one minute; surrogate DE violates stability at load factor 0.95

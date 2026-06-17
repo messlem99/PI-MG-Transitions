@@ -1,0 +1,2 @@
+source_name,search_string,search_date,field_restrictions,year_filter,source_type_filter,language_filter,raw_records,deduplicated_records,screened_records,assessed_records,included_records,notes
+Local full-text corpus,NR,NR,NR,NR,PDF and ODT files available in the local corpus,NR,123,116,116,116,60,Retrieval history was not available in the corpus; counts are reconstructed from local file inventory and extracted metadata.

@@ -1,0 +1,21 @@
+file_name,description
+source_inventory.csv,Bibliographic and topical inventory for all reviewed sources.
+eligibility_decisions.csv,Eligibility decisions and rationale for each reviewed source.
+evidence_claims.csv,Claim-level extraction table for included evidence units.
+claim_unit_examples.csv,Examples showing how multi-unit evidence was separated.
+classification_decisions.csv,Difficult inclusion and classification decisions.
+coding_rules.csv,Operational coding rules used across the dataset.
+denominators.csv,Separate source-level and claim-level denominators.
+retrieval_log.csv,Available retrieval and screening metadata.
+citation_screening.csv,Bounded citation-following decisions.
+coding_resolution.csv,Available coding-resolution information.
+review_context.csv,Comparison with review sources in the corpus.
+evidence_cross_tabulations.csv,Claim-level cross-tabulations for included evidence.
+evidence_summaries.csv,Concise distribution summaries for included evidence.
+runtime_complexity.csv,"Latency, runtime, and computational-complexity evidence."
+safety_assumptions.csv,Safety and protection assumptions for operational claims.
+uncertainty_evidence.csv,Uncertainty and calibration-related extraction.
+scalability_evidence.csv,Large-system and scalability evidence.
+failure_modes.csv,Feasibility conditions and reported failure modes.
+benchmark_requirements.csv,Evidence-derived benchmark requirements.
+evidence_coverage.csv,Mapping from review needs to supporting dataset files.

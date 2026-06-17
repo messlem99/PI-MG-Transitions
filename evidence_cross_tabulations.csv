@@ -1,0 +1,603 @@
+table_name,row_variable,row_value,column_variable,column_value,count,denominator,percentage
+method family x operating regime,method_family,Bayesian PINN,transition_or_operating_regime,system identification under uncertainty,1,66,1.52
+method family x operating regime,method_family,DRL with PINN,transition_or_operating_regime,resilient microgrid formation,1,66,1.52
+method family x operating regime,method_family,Hamiltonian neural network,transition_or_operating_regime,noisy physical-system identification,1,66,1.52
+method family x operating regime,method_family,Koopman learning,transition_or_operating_regime,transient prediction,1,66,1.52
+method family x operating regime,method_family,LSTM control/optimization,transition_or_operating_regime,fast stability enhancement,1,66,1.52
+method family x operating regime,method_family,PINN,transition_or_operating_regime,AC-OPF warm-start optimization,1,66,1.52
+method family x operating regime,method_family,PINN,transition_or_operating_regime,large disturbance transient stability,1,66,1.52
+method family x operating regime,method_family,PINN,transition_or_operating_regime,steady and dynamic power-system analysis,1,66,1.52
+method family x operating regime,method_family,PINN,transition_or_operating_regime,voltage stability,1,66,1.52
+method family x operating regime,method_family,PINN control,transition_or_operating_regime,overload stability,1,66,1.52
+method family x operating regime,method_family,PINN hybrid optimization,transition_or_operating_regime,grid-connected to island mode,1,66,1.52
+method family x operating regime,method_family,PINN recurrent model,transition_or_operating_regime,converter steady-state and transient simulation,1,66,1.52
+method family x operating regime,method_family,RL with PINN surrogate,transition_or_operating_regime,energy-management RL training,1,66,1.52
+method family x operating regime,method_family,adaptive data-driven control,transition_or_operating_regime,variable-inertia microgrid voltage control,1,66,1.52
+method family x operating regime,method_family,certificate-based neural control,transition_or_operating_regime,disturbances and renewable uncertainty,1,66,1.52
+method family x operating regime,method_family,certificate-based neural control,transition_or_operating_regime,disturbed microgrid operation,1,66,1.52
+method family x operating regime,method_family,data-driven hybrid dynamic modeling,transition_or_operating_regime,PV dynamic response,1,66,1.52
+method family x operating regime,method_family,data-driven online optimization,transition_or_operating_regime,prediction-free dispatch,1,66,1.52
+method family x operating regime,method_family,data-driven predictive control,transition_or_operating_regime,islanded frequency transient,1,66,1.52
+method family x operating regime,method_family,data-driven predictive control,transition_or_operating_regime,voltage regulation with communication constraints,2,66,3.03
+method family x operating regime,method_family,data-driven topology reconstruction,transition_or_operating_regime,topology reconstruction and risk-aware reconfiguration,1,66,1.52
+method family x operating regime,method_family,deep Koopman MPC,transition_or_operating_regime,post-disturbance transient stability,1,66,1.52
+method family x operating regime,method_family,deep evolutionary learning,transition_or_operating_regime,look-ahead transient stability under extreme events,1,66,1.52
+method family x operating regime,method_family,deep neural network MPC,transition_or_operating_regime,PV-HESS-PEM microgrid converter operation,1,66,1.52
+method family x operating regime,method_family,digital twin and deep learning,transition_or_operating_regime,fault diagnosis and health monitoring,1,66,1.52
+method family x operating regime,method_family,distributed deep reinforcement learning,transition_or_operating_regime,restoration/resilience with EV mobility,1,66,1.52
+method family x operating regime,method_family,distributionally robust neural control,transition_or_operating_regime,renewable-uncertainty stability control,1,66,1.52
+method family x operating regime,method_family,explainable graph neural network,transition_or_operating_regime,fault detection,1,66,1.52
+method family x operating regime,method_family,explicit neural network control,transition_or_operating_regime,voltage regulation,1,66,1.52
+method family x operating regime,method_family,graph neural network,transition_or_operating_regime,transient dynamics,1,66,1.52
+method family x operating regime,method_family,gray-box neural modeling,transition_or_operating_regime,IBR dynamic modeling,1,66,1.52
+method family x operating regime,method_family,hard-constrained PINN,transition_or_operating_regime,transient response,1,66,1.52
+method family x operating regime,method_family,hybrid data-driven optimization,transition_or_operating_regime,demand-response operation,1,66,1.52
+method family x operating regime,method_family,machine learning,transition_or_operating_regime,grid-connected operation,1,66,1.52
+method family x operating regime,method_family,model-data co-driven optimization,transition_or_operating_regime,stability-economy operation,1,66,1.52
+method family x operating regime,method_family,modified PINN,transition_or_operating_regime,DER parameter estimation under scarce data,1,66,1.52
+method family x operating regime,method_family,multiagent reinforcement learning,transition_or_operating_regime,extreme-weather resilience,1,66,1.52
+method family x operating regime,method_family,neural Lyapunov,transition_or_operating_regime,grid-connected and three-microgrid interconnection transient stability,1,66,1.52
+method family x operating regime,method_family,neural Lyapunov,transition_or_operating_regime,large-disturbance transient stability,1,66,1.52
+method family x operating regime,method_family,neural ODE,transition_or_operating_regime,frequency dynamics across excitations,2,66,3.03
+method family x operating regime,method_family,neural switching control,transition_or_operating_regime,topology switching under operational variation,1,66,1.52
+method family x operating regime,method_family,physical-informed safe reinforcement learning,transition_or_operating_regime,secure energy management,1,66,1.52
+method family x operating regime,method_family,physics-informed ANN,transition_or_operating_regime,physical and cyber anomaly detection,1,66,1.52
+method family x operating regime,method_family,physics-informed KAN,transition_or_operating_regime,dynamic trajectory prediction,1,66,1.52
+method family x operating regime,method_family,physics-informed convolutional neural network,transition_or_operating_regime,economic dispatch,1,66,1.52
+method family x operating regime,method_family,physics-informed graph neural network,transition_or_operating_regime,event/fault classification,1,66,1.52
+method family x operating regime,method_family,physics-informed graph neural network,transition_or_operating_regime,state estimation across feeder sizes,1,66,1.52
+method family x operating regime,method_family,physics-informed multi-agent deep RL,transition_or_operating_regime,active-distribution voltage regulation,2,66,3.03
+method family x operating regime,method_family,physics-informed neural DAE,transition_or_operating_regime,EMT device transient,2,66,3.03
+method family x operating regime,method_family,physics-informed reinforcement learning,transition_or_operating_regime,inverter trajectory tracking,1,66,1.52
+method family x operating regime,method_family,physics-informed reinforcement learning,transition_or_operating_regime,transient voltage instability after faults,1,66,1.52
+method family x operating regime,method_family,probabilistic graph neural network,transition_or_operating_regime,voltage prediction with topology changes,1,66,1.52
+method family x operating regime,method_family,reinforcement pinning control,transition_or_operating_regime,economic control,1,66,1.52
+method family x operating regime,method_family,safe policy learning,transition_or_operating_regime,real-time dynamic security,1,66,1.52
+method family x operating regime,method_family,safe reinforcement learning,transition_or_operating_regime,energy management under network constraints,1,66,1.52
+method family x operating regime,method_family,safe reinforcement learning,transition_or_operating_regime,islanding and demand-response disruption,2,66,3.03
+method family x operating regime,method_family,safe reinforcement learning,transition_or_operating_regime,maintenance under grid constraints,1,66,1.52
+method family x operating regime,method_family,safe reinforcement learning,transition_or_operating_regime,topology reconfiguration after disturbance,2,66,3.03
+method family x operating regime,method_family,stability-constrained reinforcement learning,transition_or_operating_regime,voltage control with stability constraint,1,66,1.52
+method family x operating regime,method_family,structure-preserving model reduction,transition_or_operating_regime,transient reduced-order simulation,1,66,1.52
+method family x validation fidelity tier,method_family,Bayesian PINN,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,DRL with PINN,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,Hamiltonian neural network,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,Koopman learning,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,LSTM control/optimization,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,PINN,validation_fidelity_tier,F0,2,66,3.03
+method family x validation fidelity tier,method_family,PINN,validation_fidelity_tier,F1,2,66,3.03
+method family x validation fidelity tier,method_family,PINN control,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,PINN hybrid optimization,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,PINN recurrent model,validation_fidelity_tier,F2,1,66,1.52
+method family x validation fidelity tier,method_family,RL with PINN surrogate,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,adaptive data-driven control,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,certificate-based neural control,validation_fidelity_tier,F1,2,66,3.03
+method family x validation fidelity tier,method_family,data-driven hybrid dynamic modeling,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,data-driven online optimization,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,data-driven predictive control,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,data-driven predictive control,validation_fidelity_tier,F3,2,66,3.03
+method family x validation fidelity tier,method_family,data-driven topology reconstruction,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,deep Koopman MPC,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,deep evolutionary learning,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,deep neural network MPC,validation_fidelity_tier,F2,1,66,1.52
+method family x validation fidelity tier,method_family,digital twin and deep learning,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,distributed deep reinforcement learning,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,distributionally robust neural control,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,explainable graph neural network,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,explicit neural network control,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,graph neural network,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,gray-box neural modeling,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,hard-constrained PINN,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,hybrid data-driven optimization,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,machine learning,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,model-data co-driven optimization,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,modified PINN,validation_fidelity_tier,F3,1,66,1.52
+method family x validation fidelity tier,method_family,multiagent reinforcement learning,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,neural Lyapunov,validation_fidelity_tier,F1,2,66,3.03
+method family x validation fidelity tier,method_family,neural ODE,validation_fidelity_tier,F1,2,66,3.03
+method family x validation fidelity tier,method_family,neural switching control,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,physical-informed safe reinforcement learning,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,physics-informed ANN,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,physics-informed KAN,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,physics-informed convolutional neural network,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,physics-informed graph neural network,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,physics-informed graph neural network,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,physics-informed multi-agent deep RL,validation_fidelity_tier,F0,2,66,3.03
+method family x validation fidelity tier,method_family,physics-informed neural DAE,validation_fidelity_tier,F2,2,66,3.03
+method family x validation fidelity tier,method_family,physics-informed reinforcement learning,validation_fidelity_tier,F1,2,66,3.03
+method family x validation fidelity tier,method_family,probabilistic graph neural network,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,reinforcement pinning control,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,safe policy learning,validation_fidelity_tier,F1,1,66,1.52
+method family x validation fidelity tier,method_family,safe reinforcement learning,validation_fidelity_tier,F0,4,66,6.06
+method family x validation fidelity tier,method_family,safe reinforcement learning,validation_fidelity_tier,F1,2,66,3.03
+method family x validation fidelity tier,method_family,stability-constrained reinforcement learning,validation_fidelity_tier,F0,1,66,1.52
+method family x validation fidelity tier,method_family,structure-preserving model reduction,validation_fidelity_tier,F1,1,66,1.52
+method family x auditability tier,method_family,Bayesian PINN,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,DRL with PINN,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,Hamiltonian neural network,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,Koopman learning,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,LSTM control/optimization,auditability_tier,A1,1,66,1.52
+method family x auditability tier,method_family,PINN,auditability_tier,A1,2,66,3.03
+method family x auditability tier,method_family,PINN,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,PINN,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,PINN control,auditability_tier,A1,1,66,1.52
+method family x auditability tier,method_family,PINN hybrid optimization,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,PINN recurrent model,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,RL with PINN surrogate,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,adaptive data-driven control,auditability_tier,A1,1,66,1.52
+method family x auditability tier,method_family,certificate-based neural control,auditability_tier,A2,2,66,3.03
+method family x auditability tier,method_family,data-driven hybrid dynamic modeling,auditability_tier,A1,1,66,1.52
+method family x auditability tier,method_family,data-driven online optimization,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,data-driven predictive control,auditability_tier,A3,3,66,4.55
+method family x auditability tier,method_family,data-driven topology reconstruction,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,deep Koopman MPC,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,deep evolutionary learning,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,deep neural network MPC,auditability_tier,A1,1,66,1.52
+method family x auditability tier,method_family,digital twin and deep learning,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,distributed deep reinforcement learning,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,distributionally robust neural control,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,explainable graph neural network,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,explicit neural network control,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,graph neural network,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,gray-box neural modeling,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,hard-constrained PINN,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,hybrid data-driven optimization,auditability_tier,A1,1,66,1.52
+method family x auditability tier,method_family,machine learning,auditability_tier,A1,1,66,1.52
+method family x auditability tier,method_family,model-data co-driven optimization,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,modified PINN,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,multiagent reinforcement learning,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,neural Lyapunov,auditability_tier,A2,2,66,3.03
+method family x auditability tier,method_family,neural ODE,auditability_tier,A3,2,66,3.03
+method family x auditability tier,method_family,neural switching control,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,physical-informed safe reinforcement learning,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,physics-informed ANN,auditability_tier,A1,1,66,1.52
+method family x auditability tier,method_family,physics-informed KAN,auditability_tier,A1,1,66,1.52
+method family x auditability tier,method_family,physics-informed convolutional neural network,auditability_tier,A1,1,66,1.52
+method family x auditability tier,method_family,physics-informed graph neural network,auditability_tier,A3,2,66,3.03
+method family x auditability tier,method_family,physics-informed multi-agent deep RL,auditability_tier,A3,2,66,3.03
+method family x auditability tier,method_family,physics-informed neural DAE,auditability_tier,A3,2,66,3.03
+method family x auditability tier,method_family,physics-informed reinforcement learning,auditability_tier,A2,2,66,3.03
+method family x auditability tier,method_family,probabilistic graph neural network,auditability_tier,A3,1,66,1.52
+method family x auditability tier,method_family,reinforcement pinning control,auditability_tier,A1,1,66,1.52
+method family x auditability tier,method_family,safe policy learning,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,safe reinforcement learning,auditability_tier,A2,4,66,6.06
+method family x auditability tier,method_family,safe reinforcement learning,auditability_tier,A3,2,66,3.03
+method family x auditability tier,method_family,stability-constrained reinforcement learning,auditability_tier,A2,1,66,1.52
+method family x auditability tier,method_family,structure-preserving model reduction,auditability_tier,A3,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,AC-OPF warm-start optimization,validation_environment,offline optimization benchmarks,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,DER parameter estimation under scarce data,validation_environment,real-time digital simulation data,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,EMT device transient,validation_environment,EMT simulation,2,66,3.03
+operating regime x validation environment,transition_or_operating_regime,IBR dynamic modeling,validation_environment,case-study simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,PV dynamic response,validation_environment,simulation/case-study data,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,PV-HESS-PEM microgrid converter operation,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,active-distribution voltage regulation,validation_environment,IEEE 33-bus and 141-bus simulation,2,66,3.03
+operating regime x validation environment,transition_or_operating_regime,converter steady-state and transient simulation,validation_environment,closed-loop converter simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,demand-response operation,validation_environment,case-study simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,disturbances and renewable uncertainty,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,disturbed microgrid operation,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,dynamic trajectory prediction,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,economic control,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,economic dispatch,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,energy management under network constraints,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,energy-management RL training,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,event/fault classification,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,extreme-weather resilience,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,fast stability enhancement,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,fault detection,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,fault diagnosis and health monitoring,validation_environment,case-study evaluation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,frequency dynamics across excitations,validation_environment,simulation,2,66,3.03
+operating regime x validation environment,transition_or_operating_regime,grid-connected and three-microgrid interconnection transient stability,validation_environment,grid-connected and three-microgrid simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,grid-connected operation,validation_environment,case-study evaluation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,grid-connected to island mode,validation_environment,MATLAB simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,inverter trajectory tracking,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,islanded frequency transient,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,islanding and demand-response disruption,validation_environment,simulation,2,66,3.03
+operating regime x validation environment,transition_or_operating_regime,large disturbance transient stability,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,large-disturbance transient stability,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,look-ahead transient stability under extreme events,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,maintenance under grid constraints,validation_environment,Danish grid case study,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,noisy physical-system identification,validation_environment,simulation/examples,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,overload stability,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,physical and cyber anomaly detection,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,post-disturbance transient stability,validation_environment,IEEE 9-bus and IEEE 39-bus simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,prediction-free dispatch,validation_environment,operational simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,real-time dynamic security,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,renewable-uncertainty stability control,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,resilient microgrid formation,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,restoration/resilience with EV mobility,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,secure energy management,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,stability-economy operation,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,state estimation across feeder sizes,validation_environment,simulation benchmarks,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,steady and dynamic power-system analysis,validation_environment,offline examples,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,system identification under uncertainty,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,topology reconfiguration after disturbance,validation_environment,real islanded microgrid case simulation,2,66,3.03
+operating regime x validation environment,transition_or_operating_regime,topology reconstruction and risk-aware reconfiguration,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,topology switching under operational variation,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,transient dynamics,validation_environment,DAE simulation benchmark,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,transient prediction,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,transient reduced-order simulation,validation_environment,time-domain simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,transient response,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,transient voltage instability after faults,validation_environment,IEEE 9-bus simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,variable-inertia microgrid voltage control,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,voltage control with stability constraint,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,voltage prediction with topology changes,validation_environment,simulation on realistic distribution system,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,voltage regulation,validation_environment,simulation,1,66,1.52
+operating regime x validation environment,transition_or_operating_regime,voltage regulation with communication constraints,validation_environment,hardware microgrid experimental platform,2,66,3.03
+operating regime x validation environment,transition_or_operating_regime,voltage stability,validation_environment,simulation,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,AC-OPF warm-start optimization,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,DER parameter estimation under scarce data,validation_fidelity_tier,F3,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,EMT device transient,validation_fidelity_tier,F2,2,66,3.03
+operating regime x validation fidelity tier,transition_or_operating_regime,IBR dynamic modeling,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,PV dynamic response,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,PV-HESS-PEM microgrid converter operation,validation_fidelity_tier,F2,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,active-distribution voltage regulation,validation_fidelity_tier,F0,2,66,3.03
+operating regime x validation fidelity tier,transition_or_operating_regime,converter steady-state and transient simulation,validation_fidelity_tier,F2,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,demand-response operation,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,disturbances and renewable uncertainty,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,disturbed microgrid operation,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,dynamic trajectory prediction,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,economic control,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,economic dispatch,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,energy management under network constraints,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,energy-management RL training,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,event/fault classification,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,extreme-weather resilience,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,fast stability enhancement,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,fault detection,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,fault diagnosis and health monitoring,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,frequency dynamics across excitations,validation_fidelity_tier,F1,2,66,3.03
+operating regime x validation fidelity tier,transition_or_operating_regime,grid-connected and three-microgrid interconnection transient stability,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,grid-connected operation,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,grid-connected to island mode,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,inverter trajectory tracking,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,islanded frequency transient,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,islanding and demand-response disruption,validation_fidelity_tier,F0,2,66,3.03
+operating regime x validation fidelity tier,transition_or_operating_regime,large disturbance transient stability,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,large-disturbance transient stability,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,look-ahead transient stability under extreme events,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,maintenance under grid constraints,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,noisy physical-system identification,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,overload stability,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,physical and cyber anomaly detection,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,post-disturbance transient stability,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,prediction-free dispatch,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,real-time dynamic security,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,renewable-uncertainty stability control,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,resilient microgrid formation,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,restoration/resilience with EV mobility,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,secure energy management,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,stability-economy operation,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,state estimation across feeder sizes,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,steady and dynamic power-system analysis,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,system identification under uncertainty,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,topology reconfiguration after disturbance,validation_fidelity_tier,F1,2,66,3.03
+operating regime x validation fidelity tier,transition_or_operating_regime,topology reconstruction and risk-aware reconfiguration,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,topology switching under operational variation,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,transient dynamics,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,transient prediction,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,transient reduced-order simulation,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,transient response,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,transient voltage instability after faults,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,variable-inertia microgrid voltage control,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,voltage control with stability constraint,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,voltage prediction with topology changes,validation_fidelity_tier,F0,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,voltage regulation,validation_fidelity_tier,F1,1,66,1.52
+operating regime x validation fidelity tier,transition_or_operating_regime,voltage regulation with communication constraints,validation_fidelity_tier,F3,2,66,3.03
+operating regime x validation fidelity tier,transition_or_operating_regime,voltage stability,validation_fidelity_tier,F1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,AC-OPF warm-start optimization,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,DER parameter estimation under scarce data,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,EMT device transient,auditability_tier,A3,2,66,3.03
+operating regime x auditability tier,transition_or_operating_regime,IBR dynamic modeling,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,PV dynamic response,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,PV-HESS-PEM microgrid converter operation,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,active-distribution voltage regulation,auditability_tier,A3,2,66,3.03
+operating regime x auditability tier,transition_or_operating_regime,converter steady-state and transient simulation,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,demand-response operation,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,disturbances and renewable uncertainty,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,disturbed microgrid operation,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,dynamic trajectory prediction,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,economic control,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,economic dispatch,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,energy management under network constraints,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,energy-management RL training,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,event/fault classification,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,extreme-weather resilience,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,fast stability enhancement,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,fault detection,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,fault diagnosis and health monitoring,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,frequency dynamics across excitations,auditability_tier,A3,2,66,3.03
+operating regime x auditability tier,transition_or_operating_regime,grid-connected and three-microgrid interconnection transient stability,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,grid-connected operation,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,grid-connected to island mode,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,inverter trajectory tracking,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,islanded frequency transient,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,islanding and demand-response disruption,auditability_tier,A3,2,66,3.03
+operating regime x auditability tier,transition_or_operating_regime,large disturbance transient stability,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,large-disturbance transient stability,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,look-ahead transient stability under extreme events,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,maintenance under grid constraints,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,noisy physical-system identification,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,overload stability,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,physical and cyber anomaly detection,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,post-disturbance transient stability,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,prediction-free dispatch,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,real-time dynamic security,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,renewable-uncertainty stability control,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,resilient microgrid formation,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,restoration/resilience with EV mobility,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,secure energy management,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,stability-economy operation,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,state estimation across feeder sizes,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,steady and dynamic power-system analysis,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,system identification under uncertainty,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,topology reconfiguration after disturbance,auditability_tier,A2,2,66,3.03
+operating regime x auditability tier,transition_or_operating_regime,topology reconstruction and risk-aware reconfiguration,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,topology switching under operational variation,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,transient dynamics,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,transient prediction,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,transient reduced-order simulation,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,transient response,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,transient voltage instability after faults,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,variable-inertia microgrid voltage control,auditability_tier,A1,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,voltage control with stability constraint,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,voltage prediction with topology changes,auditability_tier,A3,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,voltage regulation,auditability_tier,A2,1,66,1.52
+operating regime x auditability tier,transition_or_operating_regime,voltage regulation with communication constraints,auditability_tier,A3,2,66,3.03
+operating regime x auditability tier,transition_or_operating_regime,voltage stability,auditability_tier,A2,1,66,1.52
+system type x operating regime,system_type,AC microgrid,transition_or_operating_regime,physical and cyber anomaly detection,1,66,1.52
+system type x operating regime,system_type,DC microgrid,transition_or_operating_regime,stability-economy operation,1,66,1.52
+system type x operating regime,system_type,IEEE 9-bus power system,transition_or_operating_regime,transient voltage instability after faults,1,66,1.52
+system type x operating regime,system_type,PV-HESS-PEM microgrid converter,transition_or_operating_regime,PV-HESS-PEM microgrid converter operation,1,66,1.52
+system type x operating regime,system_type,VSC-interfaced microgrid,transition_or_operating_regime,large disturbance transient stability,1,66,1.52
+system type x operating regime,system_type,active distribution grid,transition_or_operating_regime,event/fault classification,1,66,1.52
+system type x operating regime,system_type,active distribution network,transition_or_operating_regime,active-distribution voltage regulation,2,66,3.03
+system type x operating regime,system_type,active distribution network,transition_or_operating_regime,voltage control with stability constraint,1,66,1.52
+system type x operating regime,system_type,active distribution system,transition_or_operating_regime,voltage prediction with topology changes,1,66,1.52
+system type x operating regime,system_type,commercial building microgrid,transition_or_operating_regime,islanding and demand-response disruption,2,66,3.03
+system type x operating regime,system_type,community integrated energy system,transition_or_operating_regime,demand-response operation,1,66,1.52
+system type x operating regime,system_type,converter-dominated power components,transition_or_operating_regime,EMT device transient,2,66,3.03
+system type x operating regime,system_type,dc-dc converter in microgrid context,transition_or_operating_regime,converter steady-state and transient simulation,1,66,1.52
+system type x operating regime,system_type,distribution grid,transition_or_operating_regime,maintenance under grid constraints,1,66,1.52
+system type x operating regime,system_type,distribution network with microgrids,transition_or_operating_regime,energy management under network constraints,1,66,1.52
+system type x operating regime,system_type,distribution system with inverter-based resources,transition_or_operating_regime,IBR dynamic modeling,1,66,1.52
+system type x operating regime,system_type,distribution system with microgrids,transition_or_operating_regime,resilient microgrid formation,1,66,1.52
+system type x operating regime,system_type,grid-connected microgrid,transition_or_operating_regime,grid-connected operation,1,66,1.52
+system type x operating regime,system_type,grid-forming converter,transition_or_operating_regime,overload stability,1,66,1.52
+system type x operating regime,system_type,grid-forming converter microgrid,transition_or_operating_regime,variable-inertia microgrid voltage control,1,66,1.52
+system type x operating regime,system_type,high-renewable islanded microgrid,transition_or_operating_regime,renewable-uncertainty stability control,1,66,1.52
+system type x operating regime,system_type,interconnected microgrids,transition_or_operating_regime,grid-connected and three-microgrid interconnection transient stability,1,66,1.52
+system type x operating regime,system_type,inverter-based microgrid,transition_or_operating_regime,fast stability enhancement,1,66,1.52
+system type x operating regime,system_type,inverter-dominated power system,transition_or_operating_regime,system identification under uncertainty,1,66,1.52
+system type x operating regime,system_type,islanded DC microgrid,transition_or_operating_regime,voltage regulation with communication constraints,2,66,3.03
+system type x operating regime,system_type,islanded microgrid,transition_or_operating_regime,islanded frequency transient,1,66,1.52
+system type x operating regime,system_type,islanded microgrid,transition_or_operating_regime,topology reconfiguration after disturbance,2,66,3.03
+system type x operating regime,system_type,islanded microgrid with tie switches,transition_or_operating_regime,topology switching under operational variation,1,66,1.52
+system type x operating regime,system_type,large-scale power grid,transition_or_operating_regime,look-ahead transient stability under extreme events,1,66,1.52
+system type x operating regime,system_type,microgrid,transition_or_operating_regime,disturbed microgrid operation,1,66,1.52
+system type x operating regime,system_type,microgrid,transition_or_operating_regime,economic control,1,66,1.52
+system type x operating regime,system_type,microgrid,transition_or_operating_regime,economic dispatch,1,66,1.52
+system type x operating regime,system_type,microgrid,transition_or_operating_regime,fault diagnosis and health monitoring,1,66,1.52
+system type x operating regime,system_type,microgrid,transition_or_operating_regime,frequency dynamics across excitations,2,66,3.03
+system type x operating regime,system_type,microgrid,transition_or_operating_regime,grid-connected to island mode,1,66,1.52
+system type x operating regime,system_type,microgrid,transition_or_operating_regime,prediction-free dispatch,1,66,1.52
+system type x operating regime,system_type,microgrid,transition_or_operating_regime,transient response,1,66,1.52
+system type x operating regime,system_type,microgrid,transition_or_operating_regime,voltage regulation,1,66,1.52
+system type x operating regime,system_type,microgrid,transition_or_operating_regime,voltage stability,1,66,1.52
+system type x operating regime,system_type,microgrid DERs,transition_or_operating_regime,DER parameter estimation under scarce data,1,66,1.52
+system type x operating regime,system_type,microgrid inverter,transition_or_operating_regime,inverter trajectory tracking,1,66,1.52
+system type x operating regime,system_type,microgrids,transition_or_operating_regime,extreme-weather resilience,1,66,1.52
+system type x operating regime,system_type,microgrids,transition_or_operating_regime,transient prediction,1,66,1.52
+system type x operating regime,system_type,multi-energy microgrid,transition_or_operating_regime,secure energy management,1,66,1.52
+system type x operating regime,system_type,multiple microgrids,transition_or_operating_regime,restoration/resilience with EV mobility,1,66,1.52
+system type x operating regime,system_type,multiple photovoltaic power stations,transition_or_operating_regime,PV dynamic response,1,66,1.52
+system type x operating regime,system_type,networked microgrids,transition_or_operating_regime,large-disturbance transient stability,1,66,1.52
+system type x operating regime,system_type,networked microgrids,transition_or_operating_regime,transient dynamics,1,66,1.52
+system type x operating regime,system_type,physical dynamical system,transition_or_operating_regime,noisy physical-system identification,1,66,1.52
+system type x operating regime,system_type,power distribution feeders,transition_or_operating_regime,state estimation across feeder sizes,1,66,1.52
+system type x operating regime,system_type,power distribution system,transition_or_operating_regime,topology reconstruction and risk-aware reconfiguration,1,66,1.52
+system type x operating regime,system_type,power grid,transition_or_operating_regime,fault detection,1,66,1.52
+system type x operating regime,system_type,power grid,transition_or_operating_regime,post-disturbance transient stability,1,66,1.52
+system type x operating regime,system_type,power network,transition_or_operating_regime,transient reduced-order simulation,1,66,1.52
+system type x operating regime,system_type,power system,transition_or_operating_regime,AC-OPF warm-start optimization,1,66,1.52
+system type x operating regime,system_type,power system,transition_or_operating_regime,dynamic trajectory prediction,1,66,1.52
+system type x operating regime,system_type,power system,transition_or_operating_regime,real-time dynamic security,1,66,1.52
+system type x operating regime,system_type,power system,transition_or_operating_regime,steady and dynamic power-system analysis,1,66,1.52
+system type x operating regime,system_type,smart grid,transition_or_operating_regime,energy-management RL training,1,66,1.52
+system type x operating regime,system_type,uncertain networked microgrids,transition_or_operating_regime,disturbances and renewable uncertainty,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,EMT analytics,transition_or_operating_regime,EMT device transient,2,66,3.03
+decision layer x operating regime,consuming_decision_layer,analysis support,transition_or_operating_regime,steady and dynamic power-system analysis,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,asset/grid operation planning,transition_or_operating_regime,maintenance under grid constraints,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,control support,transition_or_operating_regime,fast stability enhancement,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,converter control,transition_or_operating_regime,PV-HESS-PEM microgrid converter operation,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,device modeling,transition_or_operating_regime,converter steady-state and transient simulation,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,dispatch optimization,transition_or_operating_regime,economic dispatch,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,distributed control,transition_or_operating_regime,economic control,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,droop/secondary control,transition_or_operating_regime,islanded frequency transient,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,dynamic assessment,transition_or_operating_regime,PV dynamic response,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,dynamic assessment,transition_or_operating_regime,dynamic trajectory prediction,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,dynamic assessment,transition_or_operating_regime,transient response,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,emergency control,transition_or_operating_regime,topology reconfiguration after disturbance,2,66,3.03
+decision layer x operating regime,consuming_decision_layer,emergency control,transition_or_operating_regime,transient voltage instability after faults,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,emergency/topology control,transition_or_operating_regime,topology switching under operational variation,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,energy management system,transition_or_operating_regime,demand-response operation,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,energy management system,transition_or_operating_regime,energy management under network constraints,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,energy management system,transition_or_operating_regime,energy-management RL training,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,energy management system,transition_or_operating_regime,grid-connected operation,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,energy management system,transition_or_operating_regime,islanding and demand-response disruption,2,66,3.03
+decision layer x operating regime,consuming_decision_layer,energy management system,transition_or_operating_regime,prediction-free dispatch,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,energy management system,transition_or_operating_regime,secure energy management,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,energy management system,transition_or_operating_regime,stability-economy operation,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,hierarchical control,transition_or_operating_regime,disturbances and renewable uncertainty,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,hierarchical control,transition_or_operating_regime,disturbed microgrid operation,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,hierarchical control/ICT layer,transition_or_operating_regime,grid-connected to island mode,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,model identification,transition_or_operating_regime,DER parameter estimation under scarce data,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,model identification,transition_or_operating_regime,noisy physical-system identification,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,model identification,transition_or_operating_regime,system identification under uncertainty,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,model predictive control,transition_or_operating_regime,post-disturbance transient stability,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,model predictive control support,transition_or_operating_regime,transient prediction,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,modeling for control and assessment,transition_or_operating_regime,IBR dynamic modeling,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,monitoring and model support,transition_or_operating_regime,frequency dynamics across excitations,2,66,3.03
+decision layer x operating regime,consuming_decision_layer,monitoring and operational screening,transition_or_operating_regime,voltage prediction with topology changes,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,monitoring and planning support,transition_or_operating_regime,transient dynamics,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,monitoring/protection,transition_or_operating_regime,physical and cyber anomaly detection,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,operations monitoring,transition_or_operating_regime,fault diagnosis and health monitoring,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,optimal power flow solver,transition_or_operating_regime,AC-OPF warm-start optimization,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,planning and dynamic assessment,transition_or_operating_regime,transient reduced-order simulation,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,primary converter control,transition_or_operating_regime,inverter trajectory tracking,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,primary converter control,transition_or_operating_regime,overload stability,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,primary converter control,transition_or_operating_regime,variable-inertia microgrid voltage control,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,protection monitoring,transition_or_operating_regime,event/fault classification,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,protection monitoring,transition_or_operating_regime,fault detection,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,real-time dispatch,transition_or_operating_regime,look-ahead transient stability under extreme events,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,real-time dispatch,transition_or_operating_regime,real-time dynamic security,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,real-time security monitoring,transition_or_operating_regime,grid-connected and three-microgrid interconnection transient stability,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,real-time voltage control,transition_or_operating_regime,active-distribution voltage regulation,2,66,3.03
+decision layer x operating regime,consuming_decision_layer,real-time voltage control,transition_or_operating_regime,voltage control with stability constraint,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,resilience scheduling,transition_or_operating_regime,restoration/resilience with EV mobility,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,resilience scheduling/control,transition_or_operating_regime,extreme-weather resilience,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,restoration/reconfiguration planning,transition_or_operating_regime,resilient microgrid formation,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,restoration/reconfiguration planning,transition_or_operating_regime,topology reconstruction and risk-aware reconfiguration,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,secondary control,transition_or_operating_regime,renewable-uncertainty stability control,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,secondary control,transition_or_operating_regime,voltage regulation,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,secondary control,transition_or_operating_regime,voltage regulation with communication constraints,2,66,3.03
+decision layer x operating regime,consuming_decision_layer,security assessment,transition_or_operating_regime,large disturbance transient stability,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,security monitoring,transition_or_operating_regime,large-disturbance transient stability,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,stability assessment,transition_or_operating_regime,voltage stability,1,66,1.52
+decision layer x operating regime,consuming_decision_layer,state estimator,transition_or_operating_regime,state estimation across feeder sizes,1,66,1.52
+enforcement strength x violation reporting,enforcement_strength,audited only,violation_reporting,NR,24,66,36.36
+enforcement strength x violation reporting,enforcement_strength,audited only,violation_reporting,Yes,1,66,1.52
+enforcement strength x violation reporting,enforcement_strength,certificate-based,violation_reporting,Yes,4,66,6.06
+enforcement strength x violation reporting,enforcement_strength,hard runtime enforcement,violation_reporting,NR,3,66,4.55
+enforcement strength x violation reporting,enforcement_strength,hard runtime enforcement,violation_reporting,Yes,7,66,10.61
+enforcement strength x violation reporting,enforcement_strength,hybrid,violation_reporting,Yes,14,66,21.21
+enforcement strength x violation reporting,enforcement_strength,soft penalty,violation_reporting,NR,10,66,15.15
+enforcement strength x violation reporting,enforcement_strength,soft penalty,violation_reporting,Yes,3,66,4.55
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,AC-OPF warm-start optimization,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,DER parameter estimation under scarce data,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,EMT device transient,2,66,3.03
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,IBR dynamic modeling,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,PV dynamic response,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,PV-HESS-PEM microgrid converter operation,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,active-distribution voltage regulation,2,66,3.03
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,converter steady-state and transient simulation,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,demand-response operation,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,disturbances and renewable uncertainty,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,disturbed microgrid operation,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,dynamic trajectory prediction,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,economic control,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,economic dispatch,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,energy management under network constraints,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,energy-management RL training,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,event/fault classification,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,extreme-weather resilience,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,fast stability enhancement,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,fault detection,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,fault diagnosis and health monitoring,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,frequency dynamics across excitations,2,66,3.03
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,grid-connected and three-microgrid interconnection transient stability,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,grid-connected operation,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,grid-connected to island mode,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,inverter trajectory tracking,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,islanded frequency transient,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,islanding and demand-response disruption,2,66,3.03
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,large disturbance transient stability,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,large-disturbance transient stability,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,look-ahead transient stability under extreme events,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,maintenance under grid constraints,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,noisy physical-system identification,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,overload stability,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,physical and cyber anomaly detection,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,post-disturbance transient stability,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,prediction-free dispatch,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,real-time dynamic security,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,renewable-uncertainty stability control,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,resilient microgrid formation,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,restoration/resilience with EV mobility,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,secure energy management,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,stability-economy operation,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,state estimation across feeder sizes,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,steady and dynamic power-system analysis,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,system identification under uncertainty,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,topology reconfiguration after disturbance,2,66,3.03
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,topology reconstruction and risk-aware reconfiguration,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,topology switching under operational variation,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,transient dynamics,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,transient prediction,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,transient reduced-order simulation,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,transient response,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,transient voltage instability after faults,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,variable-inertia microgrid voltage control,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,voltage control with stability constraint,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,voltage prediction with topology changes,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,voltage regulation,1,66,1.52
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,voltage regulation with communication constraints,2,66,3.03
+evidence class x operating regime,evidence_class,Plausibility evidence,transition_or_operating_regime,voltage stability,1,66,1.52
+system type x validation fidelity tier,system_type,AC microgrid,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,DC microgrid,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,IEEE 9-bus power system,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,PV-HESS-PEM microgrid converter,validation_fidelity_tier,F2,1,66,1.52
+system type x validation fidelity tier,system_type,VSC-interfaced microgrid,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,active distribution grid,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,active distribution network,validation_fidelity_tier,F0,3,66,4.55
+system type x validation fidelity tier,system_type,active distribution system,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,commercial building microgrid,validation_fidelity_tier,F0,2,66,3.03
+system type x validation fidelity tier,system_type,community integrated energy system,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,converter-dominated power components,validation_fidelity_tier,F2,2,66,3.03
+system type x validation fidelity tier,system_type,dc-dc converter in microgrid context,validation_fidelity_tier,F2,1,66,1.52
+system type x validation fidelity tier,system_type,distribution grid,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,distribution network with microgrids,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,distribution system with inverter-based resources,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,distribution system with microgrids,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,grid-connected microgrid,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,grid-forming converter,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,grid-forming converter microgrid,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,high-renewable islanded microgrid,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,interconnected microgrids,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,inverter-based microgrid,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,inverter-dominated power system,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,islanded DC microgrid,validation_fidelity_tier,F3,2,66,3.03
+system type x validation fidelity tier,system_type,islanded microgrid,validation_fidelity_tier,F1,3,66,4.55
+system type x validation fidelity tier,system_type,islanded microgrid with tie switches,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,large-scale power grid,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,microgrid,validation_fidelity_tier,F0,3,66,4.55
+system type x validation fidelity tier,system_type,microgrid,validation_fidelity_tier,F1,8,66,12.12
+system type x validation fidelity tier,system_type,microgrid DERs,validation_fidelity_tier,F3,1,66,1.52
+system type x validation fidelity tier,system_type,microgrid inverter,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,microgrids,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,microgrids,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,multi-energy microgrid,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,multiple microgrids,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,multiple photovoltaic power stations,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,networked microgrids,validation_fidelity_tier,F1,2,66,3.03
+system type x validation fidelity tier,system_type,physical dynamical system,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,power distribution feeders,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,power distribution system,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,power grid,validation_fidelity_tier,F1,2,66,3.03
+system type x validation fidelity tier,system_type,power network,validation_fidelity_tier,F1,1,66,1.52
+system type x validation fidelity tier,system_type,power system,validation_fidelity_tier,F0,2,66,3.03
+system type x validation fidelity tier,system_type,power system,validation_fidelity_tier,F1,2,66,3.03
+system type x validation fidelity tier,system_type,smart grid,validation_fidelity_tier,F0,1,66,1.52
+system type x validation fidelity tier,system_type,uncertain networked microgrids,validation_fidelity_tier,F1,1,66,1.52
+validation environment x evidence class,validation_environment,DAE simulation benchmark,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,Danish grid case study,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,EMT simulation,evidence_class,Plausibility evidence,2,66,3.03
+validation environment x evidence class,validation_environment,IEEE 33-bus and 141-bus simulation,evidence_class,Plausibility evidence,2,66,3.03
+validation environment x evidence class,validation_environment,IEEE 9-bus and IEEE 39-bus simulation,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,IEEE 9-bus simulation,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,MATLAB simulation,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,case-study evaluation,evidence_class,Plausibility evidence,2,66,3.03
+validation environment x evidence class,validation_environment,case-study simulation,evidence_class,Plausibility evidence,2,66,3.03
+validation environment x evidence class,validation_environment,closed-loop converter simulation,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,grid-connected and three-microgrid simulation,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,hardware microgrid experimental platform,evidence_class,Plausibility evidence,2,66,3.03
+validation environment x evidence class,validation_environment,offline examples,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,offline optimization benchmarks,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,operational simulation,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,real islanded microgrid case simulation,evidence_class,Plausibility evidence,2,66,3.03
+validation environment x evidence class,validation_environment,real-time digital simulation data,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,simulation,evidence_class,Plausibility evidence,38,66,57.58
+validation environment x evidence class,validation_environment,simulation benchmarks,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,simulation on realistic distribution system,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,simulation/case-study data,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,simulation/examples,evidence_class,Plausibility evidence,1,66,1.52
+validation environment x evidence class,validation_environment,time-domain simulation,evidence_class,Plausibility evidence,1,66,1.52

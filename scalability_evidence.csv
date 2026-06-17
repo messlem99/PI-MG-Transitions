@@ -1,0 +1,24 @@
+claim_id,citation_key,system_size,number_of_nodes_or_buses,number_of_resources_or_devices,number_of_subsystems,networked_or_clustered,topology_variation,communication_burden,solver_or_inference_scaling,scalability_claim,scalability_evidence_strength,notes
+C002,10040615,NR,NR,NR,NR,Yes,NR,NR,ODT abstract reports efficient learning but no runtime,NR,A2,NR
+C004,10208158,networked microgrid cases,NR,NR,multiple,Yes,Yes,NR,NR,networked microgrid cases,A2,NR
+C005,10233047,different networked microgrid cases; exact size NR,NR,NR,multiple,Yes,Yes,NR,ODT abstract reports certified generalization; exact runtime NR,different networked microgrid cases; exact size NR,A2,NR
+C006,10238825,realistic 759-node distribution system reported in ODT note,759-node,NR,NR,Yes,Yes,NR,Compared against machine-learning baselines; exact inference time NR,realistic 759-node distribution system reported in ODT note,A3,NR
+C009,10489968,networked microgrid full-field measurement cases,NR,NR,multiple,Yes,NR,NR,Hyperparameter sensitivity reported; exact deployment runtime NR,networked microgrid full-field measurement cases,A3,NR
+C011,10507020,distribution system with IBRs,NR,NR,NR,Yes,NR,NR,ODT abstract does not report runtime,distribution system with IBRs,A2,NR
+C014,10584332,arbitrary controllable-line count claimed; exact tested size NR,NR,NR,NR,Yes,Yes,NR,ODT abstract states real-time computable law; exact runtime NR,arbitrary controllable-line count claimed; exact tested size NR,A2,NR
+C016,10753627,large test case with ROM order r=40 for 99.99% cumulative energy,NR,NR,NR,No,Yes,NR,ROM size selected by Hankel singular value cumulative energy,large test case with ROM order r=40 for 99.99% cumulative energy,A3,RMSE examples 0.038 and 0.0019 in ODT note; runtime benefits reported
+C026,11088107,"IEEE 14-bus, 34-bus, and 123-bus systems",123-bus,NR,NR,Yes,Yes,NR,"10,000 voltage sampling points; 100 train and 100 test scenarios reported","IEEE 14-bus, 34-bus, and 123-bus systems",A3,explanation generation time reported in ODT note; exact value NR
+C032,9939922,active distribution grid cases,NR,NR,NR,Yes,Yes,NR,NR,active distribution grid cases,A3,NR
+C033,Wu2026Multiagent,multiagent/multiple microgrids,NR,NR,multiple,Yes,NR,NR,NR,multiagent/multiple microgrids,A2,NR
+C038,chen2025curriculum,IEEE 39-bus noted; large-scale claim with parallelization,39-bus,NR,NR,Yes,Yes,NR,Ray-based parallelization shows near-linear speedup in ODT note,IEEE 39-bus noted; large-scale claim with parallelization,A3,0.39 s per step versus 13.2 min MPC; unsafe cases 0/500
+C041,feng2023stability,NR,NR,NR,NR,Yes,NR,NR,Title states real-time; exact latency NR,NR,A2,NR
+C043,gram2025safe,Danish grid case,NR,NR,NR,Yes,Yes,NR,NR,Danish grid case,A2,NR
+C050,long2020data,multiple PV stations,NR,NR,multiple,Yes,NR,NR,NR,multiple PV stations,A1,NR
+C052,ngo2024physics,IEEE 8500-bus case and multiple feeders,8500-bus,NR,multiple,Yes,Yes,NR,Large-scale IEEE 8500-bus case noted,IEEE 8500-bus case and multiple feeders,A3,MSE around 0.0032 to 0.0039; average RMSE around 0.0139
+C054,ping2021deep,IEEE 9-bus and IEEE 39-bus,39-bus,NR,NR,Yes,Yes,NR,ODT abstract does not report runtime,IEEE 9-bus and IEEE 39-bus,A2,NR
+C058,sun2025integrated,NR,NR,NR,NR,Yes,Yes,NR,NR,NR,A2,NR
+C059,wang2023secure,NR,NR,NR,multiple,Yes,NR,NR,NR,NR,A2,NR
+C060,wu2025resilience,multiple microgrids,NR,NR,multiple,Yes,Yes,Yes,ODT note reports sensitivity to EV/transport constraints,multiple microgrids,A3,NR
+C061,xu2024resilient,NR,NR,NR,NR,Yes,Yes,NR,NR,NR,A2,NR
+C063,zhang2024physics,IEEE 33-bus and IEEE 141-bus,141-bus,NR,NR,Yes,Yes,NR,Communication-failure modes evaluated by reward and survival steps,IEEE 33-bus and IEEE 141-bus,A3,"ODT note reports higher average reward, lower voltage deviation, lower curtailment, and shorter testing time versus MADDPG and DDPG"
+C064,zhang2024physics,IEEE 33-bus and IEEE 141-bus,141-bus,NR,NR,Yes,Yes,Yes,Communication-failure modes evaluated by reward and survival steps,IEEE 33-bus and IEEE 141-bus,A3,ODT note reports Table 3 communication-failure tests using episodic reward and survival steps
